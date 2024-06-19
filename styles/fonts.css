@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "open-sans";
+    src: url("../fonts/OpenSans-Regular.ttf")format("truetype");
+}
+
+
+
+@font-face {
+    font-family: "ruda";
+    src: url("../fonts/Ruda-Medium.ttf")format("truetype");
+}
+
+
+
+@font-face {
+    font-family: "sitka";
+    src: url("../fonts/sitka-small-599.ttf")format("truetype");
+}
+
+
+
+@font-face {
+    font-family: "dm-sans";
+    src: url("../fonts/DMSans_18pt-Regular.ttf")format("truetype");
+}
